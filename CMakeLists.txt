@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.27)
-project(MakeProjectCPP)
+project(Cli_CMakeProjectCPP)
 include_directories(${CMAKE_SOURCE_DIR}/src/include)
 set(SOURCES 
     src/main.cpp
